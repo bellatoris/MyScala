@@ -1,3 +1,9 @@
+import week3._
+
+Hello.hi
+
+def error(msg: String) = throw new Error(msg)
+
 abstract class IntSet {
   def incl(x: Int): IntSet
   def contains(s: Int): Boolean
@@ -30,3 +36,7 @@ class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet {
 
 val t1 = new NonEmpty(3, new Empty, new Empty)
 val t2 = t1 incl 4
+
+def singleton[T](elem: T) = new week3.Cons[T](elem, new week3.Nil[T])
+
+singleton(1)
