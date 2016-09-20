@@ -34,7 +34,7 @@ class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet {
 		else this
 }
 ```
-**The implementation of binary tree is still purely functional, there's np mutations.**
+**The implementation of binary tree is still purely functional, there's no mutations.**
 
 * **Include: create a new tree that contains the previous element of the tree**
 *  **But the old version of the data structure is still maintained, it doesnt't go away.** 
@@ -51,7 +51,7 @@ class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet {
 * `IntSet` is called the **superclass** of `Empty` and `NonEmpty`.
 * `Empty` and `NonEmpty` are **subclasses** of `IntSet`.
 * In Scala, any user-defined class extends another class.
-* If no superclass is given, the standar class `Object` in the Java package `java.lang` is assumed.
+* If no superclass is given, the standard class `Object` in the Java package `java.lang` is assumed.
 * The direct or indirect superclasses of a class `C` are called **base classes* of `C`.
 * SO, the base classes of `NonEmpty` are `IntSet` and `Object`.
 

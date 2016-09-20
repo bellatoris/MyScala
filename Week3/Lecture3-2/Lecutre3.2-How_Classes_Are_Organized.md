@@ -19,7 +19,7 @@
 
 	```scala
 	import week3.Rational				// imports just Rational
-	improt week3.{Rational, Hello}	// imports both Rational and Hello
+	import week3.{Rational, Hello}	// imports both Rational and Hello
 	import week3._						// imports everything in package week3
 	```
 * The first two forms are called *named imports*.
