@@ -115,7 +115,7 @@ Once this program is complied you can start it from the command line with
 	* `true`
 
 ## Something to Ponder
-* Dynamic dispatch of methods is anallgous to calls to higher-order fucntions.
+* Dynamic dispatch of methods is analogus to calls to higher-order fucntions.
 * *Quetions*:
 	* Can we implement one concept in terms of the other?
 		* Objects in terms of higher-order functions?

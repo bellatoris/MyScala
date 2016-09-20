@@ -1,302 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70b84ccb-7e99-4ca4-9934-f5740cca486f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$1ad6d6cfd2711d1b5701$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$1ad6d6cfd2711d1b5701$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$1ad6d6cfd2711d1b5701.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$571b8b066041f9a879fb$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$571b8b066041f9a879fb.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$59aaab3d9e45d95017ff$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$59aaab3d9e45d95017ff$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$59aaab3d9e45d95017ff.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$a1b9b75cc9cf8409cda3$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$a1b9b75cc9cf8409cda3$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$a1b9b75cc9cf8409cda3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$e292337b97b078b15563$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$e292337b97b078b15563$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$e292337b97b078b15563.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$12bf2254c02441bf602b$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$12bf2254c02441bf602b$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$12bf2254c02441bf602b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1650f53c53a4f7af0add$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1650f53c53a4f7af0add$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1650f53c53a4f7af0add.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1dea76c70ab038600746$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1dea76c70ab038600746$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1dea76c70ab038600746.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$6331785c53c7696242c8$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$6331785c53c7696242c8$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$6331785c53c7696242c8$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$6331785c53c7696242c8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$8f0cee88bb47b5826bcb$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$8f0cee88bb47b5826bcb$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$8f0cee88bb47b5826bcb.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$96c186ca8dae8ced16e5$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$96c186ca8dae8ced16e5$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$96c186ca8dae8ced16e5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$a986f1eb22c402276db7$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$a986f1eb22c402276db7$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$a986f1eb22c402276db7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b3495964f1782131c1b0$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b3495964f1782131c1b0$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b3495964f1782131c1b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b37dbd1cac8b0053b12b$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b37dbd1cac8b0053b12b$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b37dbd1cac8b0053b12b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$c75a8e844babc190db33$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$c75a8e844babc190db33$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$c75a8e844babc190db33.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$ea05824488485d7d006b$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$ea05824488485d7d006b$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$ea05824488485d7d006b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$eeabff0b56c37d893821$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$eeabff0b56c37d893821$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$eeabff0b56c37d893821.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$f15b5d850bf4d4759dbd$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$f15b5d850bf4d4759dbd$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$f15b5d850bf4d4759dbd.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/Assignment$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/Settings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/$global/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/ivySbt/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/compile/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/.history" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/ivySbt/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__junit_junit_4_10_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/modules/root-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/modules/root.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/scala_compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/assignment.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/build.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/CommonBuild.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/GradingFeedback.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/ScalaTestRunner.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/Settings.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/StudentBuild.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/StudentBuildLike.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/StyleChecker.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/buildSettings.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/plugins.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$1ad6d6cfd2711d1b5701.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$571b8b066041f9a879fb.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$59aaab3d9e45d95017ff.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$a1b9b75cc9cf8409cda3.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/project/target/config-classes/$e292337b97b078b15563.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$12bf2254c02441bf602b.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1650f53c53a4f7af0add.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$1dea76c70ab038600746.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$6331785c53c7696242c8.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$8f0cee88bb47b5826bcb.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$96c186ca8dae8ced16e5.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$a986f1eb22c402276db7.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b3495964f1782131c1b0.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$b37dbd1cac8b0053b12b.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$c75a8e844babc190db33.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$ea05824488485d7d006b.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$eeabff0b56c37d893821.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/config-classes/$f15b5d850bf4d4759dbd.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-scala-tool.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/default-patmat-build-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/ivy-report.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/$global/update/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/src/main/scala/common/package.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/src/main/scala/patmat/Huffman.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/progfun1-patmat/progfun1-patmat$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/progfun1-patmat/progfun1-patmat$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/progfun1-patmat/progfun1-patmat_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/progfun1-patmat/progfun1-patmat_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/ivy-report.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-scala-tool.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-compile-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-compile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-docs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-optional.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-provided.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-runtime-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-runtime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-scala-tool.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-test-internal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/$global/dumpStructure/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/update/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/test/managedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/test/unmanagedClasspath/$global/streams/export" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Week4/patmat/target/streams/test/unmanagedJars/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lecture3-1/Class_Hierarchies.md" afterPath="$PROJECT_DIR$/../Lecture3-1/Class_Hierarchies.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lecture3-2/Lecutre3.2-How_Classes_Are_Organized.md" afterPath="$PROJECT_DIR$/../Lecture3-2/Lecutre3.2-How_Classes_Are_Organized.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="70b84ccb-7e99-4ca4-9934-f5740cca486f" name="Default" comment="" />
     <ignored path="progfun1-objsets.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week3/objsets/target/" />
@@ -359,7 +64,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2187">
               <caret line="89" column="28" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="28" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#560#585#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -369,7 +77,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1485">
               <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-              <folding />
+              <folding>
+                <element signature="e#17#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -410,8 +120,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="963" />
+    <option name="width" value="2560" />
+    <option name="height" value="1353" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1125,7 +835,7 @@
       <updated>1474174661901</updated>
       <workItem from="1474174667832" duration="21179000" />
       <workItem from="1474373012422" duration="730000" />
-      <workItem from="1474376559754" duration="1264000" />
+      <workItem from="1474376559754" duration="1482000" />
     </task>
     <servers />
   </component>
@@ -1153,10 +863,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23173000" />
+    <option name="totallyTimeSpent" value="23391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="963" extended-state="6" />
+    <frame x="0" y="23" width="2560" height="1353" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1167,12 +877,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295063" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15079366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098093726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1265,7 +975,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2187">
           <caret line="89" column="28" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#560#585#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1273,7 +986,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#17#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1313,7 +1028,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2187">
           <caret line="89" column="28" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#560#585#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1321,7 +1039,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#17#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1337,7 +1057,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2187">
           <caret line="89" column="28" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#560#585#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,7 +1076,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#17#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1378,8 +1103,8 @@
         <state relative-caret-position="276">
           <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
           <folding>
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="false" />
+            <element signature="e#83020#83021#0" expanded="false" />
           </folding>
         </state>
       </provider>
