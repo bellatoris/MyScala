@@ -1,0 +1,247 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/common/package$.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/common/package.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> /Users/DoogieMin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> /Users/DoogieMin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> common.package
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+129 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> ::
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> <init>
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> Any
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> File
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> List
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> None
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> Option
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> Predef
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> String
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> _root_
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> child
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> children
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> common
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> exists
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> file
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> getClass
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> getResource
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> io
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> java
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> package
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> scala
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> subFile
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> toURI
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> <
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> addBit
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> adjust
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> bit
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> charList
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> condition
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> contain
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> insert
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> iterator
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> leaf
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> orderedList
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> search
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+12 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1475425402000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1475425401000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1475425401000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1475425676000)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1475425676000)
+source stamps:
+2 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> hash(8075ef4513f3c5a7ef9db67186f3c7fa269bea1c)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466589303000)
+/Users/DoogieMin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/DoogieMin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction4
+internal apis:
+2 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXhjTuwXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF4vVXNlcnMvRG9vZ2llTWluL0Ryb3Bib3gvRG9vZ2llL1N0dWR5NC4zLzIwMTYtMi9NeVNjYWxhL1dlZWs0L3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAaO7c7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADGclXmN0AAxhc0luc3RhbmNlT2ZzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAwvPyahdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADGe14Jx0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAx8n+brdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAyL3AEJdAALcmVhZFJlc29sdmVzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMEvSivXQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADLAHNYx0AAZhZGRCaXRzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADJombp50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADL4+j3J0AARjb3B5c3EAfgAMX9xEyHQADHN0cmluZzJDaGFyc3NxAH4ADNRg4Op0AAh0b1N0cmluZ3NxAH4ADI6HD+d0AAlzaW5nbGV0b25zcQB+AAzai14tdAACIT1zcQB+AAyiLWWqdAAIZ2V0Q2xhc3NzcQB+AAwaC9rBdAAJQ29kZVRhYmxlc3EAfgAMR2D433QADmNyZWF0ZUNvZGVUcmVlc3EAfgAMRfJBNnQADmNvcHkkZGVmYXVsdCQxc3EAfgAM9q1EPHQABEZvcmtzcQB+AAwlxqCSdAADQml0c3EAfgAMspD1b3QAAm5lc3EAfgAMQ8CvyHQAE21ha2VPcmRlcmVkTGVhZkxpc3RzcQB+AAwXcm2rdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AK8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJdMAAlpbmhlcml0ZWRxAH4Al0wAB3BhcmVudHNxAH4Al3hxAH4AtnNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AM50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM9zcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A1XBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXhjkqU3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF4vVXNlcnMvRG9vZ2llTWluL0Ryb3Bib3gvRG9vZ2llL1N0dWR5NC4zLzIwMTYtMi9NeVNjYWxhL1dlZWs0L3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUgHXvRRPzxafvnbZxhvPH+iab6hw=
+external apis:
+0 items
+source infos:
+2 items
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week4/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV4Y07sF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9Eb29naWVNaW4vRHJvcGJveC9Eb29naWUvU3R1ZHk0LjMvMjAxNi0yL015U2NhbGEvV2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV4Y3e+V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9Eb29naWVNaW4vRHJvcGJveC9Eb29naWUvU3R1ZHk0LjMvMjAxNi0yL015U2NhbGEvV2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV4Y5KlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy9Eb29naWVNaW4vRHJvcGJveC9Eb29naWUvU3R1ZHk0LjMvMjAxNi0yL015U2NhbGEvV2VlazQvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
