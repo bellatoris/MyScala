@@ -18,10 +18,8 @@ trait Expr {
     case Prod(e1, e2:Sum) => e1.show + " * (" + e2.show + ")"
     case Prod(e1, e2) => e1.show + " * " + e2.show
   }
-
 }
 case class Number(n: Int) extends Expr
 case class Sum(e1: Expr, e2: Expr) extends Expr
 case class Prod(e1: Expr, e2: Expr) extends Expr
 case class Var(name: String) extends Expr
-
