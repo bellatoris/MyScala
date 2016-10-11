@@ -12,18 +12,19 @@ object week5 {
       case z => z :: flatten(ys)
     }
   }
-  def msort(xs: List[Int]): List[Int] = {
+  def msort[T](xs: List[T])(ord: Ordering[T]): List[T] = {
     val n = xs.length / 2
     if (n == 0) xs
     else {
-      def merge(xs: List[Int], ys: List[Int]): List[Int] = {
-        if (xs.isEmpty) ys
-        else if(ys.isEmpty) xs
-        else if (xs.head < ys.head) xs.head :: merge(xs.tail, ys)
-        else ys.head :: merge(xs, ys.tail)
+      def merge(xs: List[T], ys: List[T]): List[T] = (xs, ys) match {
+        case (Nil, ys) => ys
+        case (xs, Nil) => xs
+        case (x :: xs1, y :: ys1) =>
+          if (ord.lt(x, y)) x :: merge(xs1, ys)
+          else y :: merge(xs, ys1)
       }
       val (fst, snd) = xs splitAt n
-      merge(msort(fst), msort(snd))
+      merge(msort(fst)(ord), msort(snd)(ord))
     }
   }
 }
@@ -32,5 +33,5 @@ week5.removeAt(1, week5.nums)
 week5.flatten(List(List(1, 1), 2, List(3, List(5, 8))))
 week5.flatten(List(List(List(3, List(5, 8)))))
 
-week5.msort(List(3,4,5,4,23,24,23,453,1,2,36,23,42,34,23,5,235))
+week5.msort(List(3,4,5,4,23,24,23,453,1,2,36,23,42,34,23,5,235))(Ordering.Int)
 
