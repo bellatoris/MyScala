@@ -92,9 +92,9 @@
 
 	```scala
 	((x :: xs) ++ ys) ++ zs
-	 = (x :: (xs ++ ys)) ++ zs 			// by 2nd clause of ++
-	 = x :: ((xs ++ ys) ++ zs) 			// by 2nd clause of ++
-	 = x :: (xs ++ (ys ++ zs))			// by induction hypothesis
+	= (x :: (xs ++ ys)) ++ zs 			// by 2nd clause of ++
+	= x :: ((xs ++ ys) ++ zs) 			// by 2nd clause of ++
+	= x :: (xs ++ (ys ++ zs))			// by induction hypothesis
 	```
 	
 ## Induction Step: RHS
@@ -102,7 +102,7 @@
 
 	```scala
 	(x :: xs) ++ (ys ++ zs)
-	 = x :: (xs ++ (ys ++ zs)) 			// by 2nd clause of ++
+	= x :: (xs ++ (ys ++ zs)) 			// by 2nd clause of ++
 	```
 	
 * So this case (and with it, the property) is established. 
@@ -116,15 +116,15 @@
 
 	```scala
 	Nil ++ Nil
-	 = Nil 								// by 1st clause of ++
+	= Nil 								// by 1st clause of ++
 	```
 
 * Induction step: `x :: xs`
 
 	```scala
 	(x :: xs) ++ Nil
-	 = x :: (xs ++ Nil)					// by wnd clause of ++
-	 = x :: xs							// by induction hypothesis
+	= x :: (xs ++ Nil)					// by wnd clause of ++
+	= x :: xs							// by induction hypothesis
 	```
 	
 * So this case (and with it, the property) is established. 
