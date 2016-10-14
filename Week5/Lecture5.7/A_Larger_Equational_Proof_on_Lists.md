@@ -97,3 +97,28 @@
 	(x :: xs) map f = f(x) :: (xs map f)
 	```
 	
+* Base case:
+
+	```scala
+	(Nil ++ ys) map f
+	= ys map f								// by 1st clause of ++
+	= Nil ++ (ys map f)						// by 1st clause of ++
+	= (Nil map f) ++ (ys map f)			// by 1st clause of map
+	```
+	
+* Inductive step:
+
+	```scala
+	((x :: xs) ++ ys) map f					// to show: = ((x :: xs) map f) ++ (ys map f)
+	= (x :: (xs ++ ys)) map f				// by 2nd clause of ++
+	= f(x) :: ((xs ++ ys) map f)			// by 2nd clause of map
+	= f(x) :: ((xs map f) ++ (ys map f))	// by the induction hypothesis
+	= (f(x) :: (xs map f)) ++ (ys map f)	// by 2nd clause of ++
+	= ((x :: xs) map f) ++ (ys map f) 		// by 2nd clause of map
+	```
+	* Q.E.D
+
+
+
+
+	
