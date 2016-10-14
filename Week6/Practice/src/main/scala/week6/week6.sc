@@ -5,5 +5,11 @@ object test {
   ys exists (c => c.isUpper)
   ys forall (c => c.isUpper)
 
-  val
+  val pairs = List(1,2,3) zip ys
+  val (a, b) = pairs.unzip
+
+  ys flatMap (c => List('.', c))
+  xs.min
+  xs.max
+  xs.sum
 }

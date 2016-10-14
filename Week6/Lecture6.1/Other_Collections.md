@@ -64,3 +64,45 @@
 * `xs.product`: The product of all elements of this numeric collection.
 * `xs.max`: The maximum of all elements of this collection (an `Ordering` must exist)
 * `xs.min`: The minimum of all elements of this collection
+
+## Example: Combinations
+* To list all combinations of numbers `x` and `y` where `x` is drawn from `1..M` and `y` is drawn from `1..N`:
+
+	```scala
+	(1 to M) flatMap (x => (1..N) map (y => (x, y))
+	```
+	
+## Example: Scalar Product
+* To compute the scalar product of two vectors:
+
+	```scala
+	def scalarProduct(xs: Vector[Double], ys: Vector[Double]): Double =
+		(xs zip ys).map(xy => xy._1 * xy._2).sum
+	``
+* An alternative way to write this is with a *pattern matching function value*.
+
+	```scala
+	def scalarProduct(xs: Vector[Double], ys: Vector[Double]): Double =
+		(xs zip ys).map{ case (x, y) => x * y}.sum
+	```
+
+* Generally, the function value
+
+	```scala
+	{ case p1 => e1 ... case pn => en }
+	```
+
+is equivalent to 
+
+	```scala
+	x => x match { case p1 => e1 .. case pn => en }
+	```
+	
+## Exercise:
+* A number `n` is *prime* if the only divisors of `n` are `1` and `n` itself.
+* What is a high-level way to write a test for primality of numbers?
+* For once, value conciseness over efficiency.
+
+	```scala
+	def isPrime(n: Int): Boolean = (2 until n / 2) forall (d => n % d != 0)
+	```
