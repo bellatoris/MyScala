@@ -24,7 +24,7 @@ object Lists {
    * @return The sum of all elements in `xs`
    */
     def sum(xs: List[Int]): Int = {
-      xs foldLeft(_ + _)
+      (xs foldLeft 0)(_ + _)
     }
   
   /**
@@ -41,11 +41,7 @@ object Lists {
    * @throws java.util.NoSuchElementException if `xs` is an empty list
    */
     def max(xs: List[Int]): Int = {
-      def maxValue(xs: List[Int], x: Int): Int = {
-        if (xs.isEmpty) x
-        else if (x > xs.head) maxValue(xs.tail, x)
-        else maxValue(xs.tail, xs.head)
-      }
-      maxValue(xs.tail, xs.head)
+      if (xs.isEmpty) throw new java.util.NoSuchElementException
+      else (xs.tail foldLeft xs.head)((x,y) => if (x > y) x else y)
     }
   }
