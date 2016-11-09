@@ -13,4 +13,4 @@
   	"postalCode" : 10021
   },
   "phoneNumbers" : [
-  		
+  	{ "type" : "home", "number" : "212 555-12345" },	
