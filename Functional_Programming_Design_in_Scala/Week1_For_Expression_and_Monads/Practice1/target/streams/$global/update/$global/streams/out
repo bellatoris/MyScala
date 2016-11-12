@@ -1,0 +1,251 @@
+[info] Updating {file:/Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/}practice1...
+[debug] :: resolving dependencies :: default#practice1_2.12;1.0
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.12.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a76c630
+[info] Resolving org.scala-lang#scala-library;2.12.0 ...
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5a76c630
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang/scala-library/2.12.0/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang#scala-library;2.12.0
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.pom
+[debug] 	jcenter: found md file for org.scala-lang#scala-library;2.12.0
+[debug] 		=> https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.pom (2.12.0)
+[debug] downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.pom
+[debug] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.0!scala-library.pom(pom.original) (1104ms)
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang/scala-library/2.12.0/jars/scala-library.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar
+[debug] 	found org.scala-lang#scala-library;2.12.0 in jcenter
+[debug] 	[2.12.0] org.scala-lang#scala-library;2.12.0
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->default(compile)]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [test]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->default(compile)]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile-internal]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->default(compile)]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [optional]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [provided]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [runtime-internal]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->default(compile)]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [optional]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [test-internal]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [test]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->default(compile)]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [optional]
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [provided]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for default#practice1_2.12;1.0 [scala-tool]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-compiler;2.12.0 [scala-tool->default]
+[info] Resolving org.scala-lang#scala-compiler;2.12.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.0 {scala-tool=[default, optional(default)]}
+[info] Resolving org.scala-lang#scala-compiler;2.12.0 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.0 {scala-tool=[default, optional(default)]}
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang/scala-compiler/2.12.0/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang#scala-compiler;2.12.0
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.pom
+[debug] 	jcenter: found md file for org.scala-lang#scala-compiler;2.12.0
+[debug] 		=> https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.pom (2.12.0)
+[debug] downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.pom
+[debug] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.0!scala-compiler.pom(pom.original) (1222ms)
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang/scala-compiler/2.12.0/jars/scala-compiler.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.jar
+[debug] 	found org.scala-lang#scala-compiler;2.12.0 in jcenter
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-compiler;2.12.0 [scala-tool->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-compiler;2.12.0 [scala-tool->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->default]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->runtime]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->master]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->optional(default)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-reflect;2.12.0 [compile->master(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.12.0 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[info] Resolving org.scala-lang#scala-reflect;2.12.0 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang#scala-reflect;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang/scala-reflect/2.12.0/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang#scala-reflect;2.12.0
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom
+[debug] 	jcenter: found md file for org.scala-lang#scala-reflect;2.12.0
+[debug] 		=> https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom (2.12.0)
+[debug] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.pom
+[debug] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.0!scala-reflect.pom(pom.original) (922ms)
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang/scala-reflect/2.12.0/jars/scala-reflect.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar
+[debug] 	found org.scala-lang#scala-reflect;2.12.0 in jcenter
+[debug] 	[2.12.0] org.scala-lang#scala-reflect;2.12.0
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-reflect;2.12.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.12.0->org.scala-lang#scala-library;2.12.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-reflect;2.12.0 [compile->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-reflect;2.12.0 [compile->compile]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.12.0->org.scala-lang#scala-library;2.12.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-reflect;2.12.0->org.scala-lang#scala-library;2.12.0 [runtime->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [compile->master(compile)]
+[info] Resolving org.scala-lang.modules#scala-xml_2.12;1.0.5 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[info] Resolving org.scala-lang.modules#scala-xml_2.12;1.0.5 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.5/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang.modules#scala-xml_2.12;1.0.5
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom
+[debug] 	jcenter: found md file for org.scala-lang.modules#scala-xml_2.12;1.0.5
+[debug] 		=> https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom (1.0.5)
+[debug] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom
+[debug] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.pom(pom.original) (1064ms)
+[debug] 		tried /Users/DoogieMin/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.0.5/bundles/scala-xml_2.12.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar
+[debug] 	found org.scala-lang.modules#scala-xml_2.12;1.0.5 in jcenter
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.5->org.scala-lang#scala-library;2.12.0 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.5->org.scala-lang#scala-library;2.12.0 [compile->compile(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [compile->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [compile->compile]
+[debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.5->org.scala-lang#scala-library;2.12.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.5->org.scala-lang#scala-library;2.12.0 [runtime->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-library;2.12.0 [runtime->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-reflect;2.12.0 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang#scala-reflect;2.12.0 [runtime->compile]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [runtime->runtime(*)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [runtime->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-compiler;2.12.0 [scala-tool->master]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-compiler;2.12.0 [scala-tool->optional(default)]
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->jline#jline;2.14.1 [optional->master(compile)]
+[info] Resolving jline#jline;2.14.1 ...
+[debug] sbt-chain: Checking cache for: dependency: jline#jline;2.14.1 {optional=[compile(*), master(compile)]}
+[info] Resolving jline#jline;2.14.1 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: jline#jline;2.14.1 {optional=[compile(*), master(compile)]}
+[debug] 		tried /Users/DoogieMin/.ivy2/local/jline/jline/2.14.1/ivys/ivy.xml
+[debug] 	local: no ivy file found for jline#jline;2.14.1
+[debug] 		tried https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.pom
+[debug] 	jcenter: found md file for jline#jline;2.14.1
+[debug] 		=> https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.pom (2.14.1)
+[debug] downloading https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.pom
+[debug] 	[SUCCESSFUL ] jline#jline;2.14.1!jline.pom(pom.original) (1499ms)
+[info] Resolving org.sonatype.oss#oss-parent;9 ...
+[debug] sbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;9 {}
+[debug] sbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;9
+[debug] 		tried /Users/DoogieMin/.ivy2/local/jline/jline/2.14.1/jars/jline.jar
+[debug] 		tried https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.jar
+[debug] 	found jline#jline;2.14.1 in jcenter
+[debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.0->jline#jline;2.14.1 [optional->compile(*)]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [scala-tool->default]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [scala-tool->runtime]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [scala-tool->compile]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [scala-tool->master]
+[debug] == resolving dependencies default#practice1_2.12;1.0->org.scala-lang#scala-library;2.12.0 [scala-tool->optional(default)]
+[debug] circular dependency found: org.scala-lang#scala-compiler;2.12.0->org.scala-lang.modules#scala-xml_2.12;1.0.5->...
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.0!scala-library.jar (3828ms)
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.0/scala-compiler-2.12.0.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.0!scala-compiler.jar (4086ms)
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.12.0/scala-reflect-2.12.0.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.0!scala-reflect.jar (3152ms)
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar(bundle) (2984ms)
+[debug] 		tried https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.jar
+[info] downloading https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/jline/jline/2.14.1/jline-2.14.1.jar
+[info] 	[SUCCESSFUL ] jline#jline;2.14.1!jline.jar (2672ms)
+[debug] :: resolution report :: resolve 9935ms :: artifacts dl 16725ms
+[debug] 	report for default#practice1_2.12;1.0 compile produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-compile.xml
+[debug] 	report for default#practice1_2.12;1.0 runtime produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-runtime.xml
+[debug] 	report for default#practice1_2.12;1.0 test produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-test.xml
+[debug] 	report for default#practice1_2.12;1.0 provided produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-provided.xml
+[debug] 	report for default#practice1_2.12;1.0 optional produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-optional.xml
+[debug] 	report for default#practice1_2.12;1.0 compile-internal produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-compile-internal.xml
+[debug] 	report for default#practice1_2.12;1.0 runtime-internal produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-runtime-internal.xml
+[debug] 	report for default#practice1_2.12;1.0 test-internal produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-test-internal.xml
+[debug] 	report for default#practice1_2.12;1.0 plugin produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-plugin.xml
+[debug] 	report for default#practice1_2.12;1.0 sources produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-sources.xml
+[debug] 	report for default#practice1_2.12;1.0 docs produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-docs.xml
+[debug] 	report for default#practice1_2.12;1.0 pom produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-pom.xml
+[debug] 	report for default#practice1_2.12;1.0 scala-tool produced in /Users/DoogieMin/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/target/resolution-cache/reports/default-practice1_2.12-scala-tool.xml
+[debug] 	resolve done (9935ms resolve - 16725ms download)
+[info] Done updating.
