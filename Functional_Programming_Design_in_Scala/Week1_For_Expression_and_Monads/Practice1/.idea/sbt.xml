@@ -3,15 +3,14 @@
   <component name="ScalaSbtSettings">
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
-        <option name="createEmptyContentRootDirectories" value="true" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1" />
-            <option value="$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/Practice1/project" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
           </set>
         </option>
-        <option name="resolveSbtClassifiers" value="true" />
         <option name="sbtVersion" value="0.13.8" />
       </SbtProjectSettings>
     </option>

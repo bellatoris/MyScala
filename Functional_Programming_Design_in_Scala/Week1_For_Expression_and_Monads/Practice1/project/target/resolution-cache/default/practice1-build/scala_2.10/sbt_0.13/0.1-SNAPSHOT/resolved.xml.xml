@@ -4,7 +4,7 @@
 		module="practice1-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161113011755"
+		publication="20161124020350"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

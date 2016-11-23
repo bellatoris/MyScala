@@ -7,8 +7,8 @@
         <option name="jdk" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week6/forcomp" />
-            <option value="$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week6/forcomp/project" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
           </set>
         </option>
         <option name="sbtVersion" value="0.13.9" />
