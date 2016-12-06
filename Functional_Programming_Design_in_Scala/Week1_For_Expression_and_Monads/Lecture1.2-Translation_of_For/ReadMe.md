@@ -30,3 +30,19 @@
 	```scala
 	e1.map(x => e2)
 	```
+	
+2. A for-expression
+
+	```scala
+	for (x <- e1 if f; s) yield e2
+	```
+	
+	where `f` is a filter and `s` is a (potentially empty) sequence of generators and filters, is translated to
+	
+	```scala
+	for (x <- e1.withFilter(x => f); s) yield e2
+	```
+	
+	(and the translation continues with the new expressions)  
+	You can think of `withFilter` as a variant of `filter` that does not produce an intermediate list, but instead filters the following `map` of `flatMap` function application.
+	
