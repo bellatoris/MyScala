@@ -23,8 +23,9 @@
 	xs.reverse			// The list containing the elements of xs in reversed
 						// order.
 	xs.updated(n, x)	// The list containing the same elements as xs, except 
-						// at index n where it contains x.	```
-						
+						// at index n where it contains x.	```  
+			
+				
 * *Finding elements*:
 
 	```scala

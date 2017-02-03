@@ -93,7 +93,7 @@ class Nil[T] extends List[T] {
 * Some other languages keep the type parameters around at run time, these include C++, C#, F#.
 
 ## Polymorphism
-* Polymorphism means that a dunction type comes "in many forms".
+* Polymorphism means that a function type comes "in many forms".
 * In programming it means that
 	* the function can be applied to arguments of many types, or
 	* the type can have instances of many types. 
