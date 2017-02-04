@@ -1,4 +1,4 @@
-# Programming Paradigms
+# Lecture 1.1 - Programming Paradigms
 
 ## Programming Paradigms
 

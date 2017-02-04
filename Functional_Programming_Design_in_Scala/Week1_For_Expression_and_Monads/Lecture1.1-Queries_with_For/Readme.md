@@ -40,9 +40,12 @@
 	} yield a1
 	```
 	Why do solutions show up twice?  
-	Suppose there are books b1 and b2 written by the same author. (b1, b2) and (b2, b1) are regarded as different pairs. So the author shows twice.  
+	
+	* Suppose there are books b1 and b2 written by the same author. (b1, b2) and (b2, b1) are regarded as different pairs. So the author shows twice.
+	  
 	How can we avoid this?  
-	Just take unique pair.
+	
+	* Just take unique pair.
 	
 ## Modified Query
 * To find the names of all authors who have written at least two books present in the database.

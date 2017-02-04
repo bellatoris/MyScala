@@ -41,6 +41,7 @@
 	
 	```scala
 	for (x <- e1.withFilter(x => f); s) yield e2
+	e1.withFilter(x => f).map(x => e2)
 	```
 	
 	(and the translation continues with the new expressions)  

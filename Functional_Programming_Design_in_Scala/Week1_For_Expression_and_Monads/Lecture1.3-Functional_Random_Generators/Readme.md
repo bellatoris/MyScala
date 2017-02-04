@@ -48,7 +48,7 @@
 	How can we delete above boilerplate code? 
 	
 ## Streamlining It
-* Can we avoid the `new Generator` ... boilerplate?
+* Can we avoid the `new Generator` ... **boilerplate** (행사코드)?
 * Ideally, we would like to write:
 
 	```scala
@@ -81,7 +81,7 @@
 		def generate: T
 		
 		def map[S](f: T => S): Generator[S] = new Generator[S] {
-			def generate = f(self.generate)
+			def generate = f(self.generate) // same with f(Generator.this.generate)
 		}
 		
 		def flatMap[S](f: T => Generator[S]): Generator[S] = new Generator[S] {
@@ -108,6 +108,128 @@
 	```
 	
 ## The `pairs` Generator
+```scala
+def pairs[T, U](t: Generator[T], u: Generator[U]) = t flatMap { 
+	x => u map { y => (x,y) } }
+	
+def pairs[T, U](t: Generator[T], u: Generator[U]) = t flatMap {
+	x => new Generator[(T, U)] { def generate = (x, u.generate) } }
+	
+def pairs[T, U](t: Generator[T], u: Generator[U]) = new Generator[(T, U)] {
+	def generate = (new Generator[(T, U)] {
+		def generate = (t.generate, u.generate)
+	}).generate }
+	
+def pairs[T, U](t: Generator[T], u: Generator[U]) = new Generator[(T, U)] {
+	def generate = (t.generate, u.generate)
+} 
+```
 
-	```scala
-	def paris[T, U] 
+## Generator Examples
+```scala
+def single[T](x: T): Generator[T] = new Generator[T] { 
+	def generate = x
+}
+
+def choose(lo: Int, hi: Int) : Generator[Int] = 
+	for (x <- integers) yield lo + x % (hi - lo)
+
+// T* means that you can give it as many choices as you want
+def oneOf[T](xs: T*): Generator[T] =
+	for (idx <- choose(0, xs.length)) yield xs(idx)
+```
+
+## A `List` Generator
+We can write random value generators for more structured types. A list is either an empty list or a non-empty list.
+
+```scala
+def lists: Generator[List[Int]] = for { 
+	isEmpty <- booleans
+	list <- if (isEmpty) emptyLists else nonEmptyLists
+} yield list
+
+def emptyLists = single(Nil)
+
+// recursion
+def nonEmptyLists = for { 
+	head <- integers
+	tail <- lists
+} yield head :: tail
+```
+
+## A `Tree` Generator
+Can you implement a generator that creates random `Tree` objects?
+
+```scala
+trait Tree
+
+case class Inner(left: Tree, right: Tree) extends Tree
+
+case class Leaf(x: Int) extends Tree
+```
+Hint: a tree is either a leaf or an inner node.
+
+```scala
+def trees: Generator[Tree] = for {
+  isLeaf <- booleans
+  tree <- if (isLeaf) leafs else inners
+} yield tree
+
+def leafs: Generator[Leaf] = for {
+  x <- integers
+} yield Leaf(x)
+
+def inners: Generator[Inner]x = for {
+  left <- trees
+  right <- trees
+} yield Inner(left, right)
+
+trees.generate
+```
+
+## Application: Random Testing
+You know about units tests:
+
+* Come up with some some test inputs to program functions and a ***postcondtion***.
+* The postcondition is a property of the expected result.
+* Verify that the program satisfies the postcondition.
+
+***Question:*** Can we do without the test inputs?
+
+* Yes, by generating random test inputs.
+
+## Random Test Function
+Using generators, we can write a random test function:
+
+```scala
+def test[T](g: Generator[T], numTimes: Int = 100)
+		(nestedTest: T => Boolean): Unit = {
+	for (i <- 0 until numTimes) {
+		val value = g.generate
+		assert(nestedTest(value), "test failed for " + value)
+	}
+	println("passed " +numTimes+" test")
+}
+```
+
+Example usage:
+
+```scala
+test(pairs(lists, lists)) {
+	case (xs, ys) => (xs ++ ys).length > xs.length
+}
+```
+
+**Question:** Does the above property always hold?
+
+* No, cause lists can be empty lists.
+
+## ScalaCheck
+Shift in viewpoint: Instead of writing tests, wirte ***properties*** that are assumed to hold. This idea is implemented in the `ScalaCheck` tool.
+
+```scala
+forAll { (l1: List[Int], l2: List[Int]) =>
+	l1.size + l2.size == (l1 ++ l2).size
+}
+```
+It can be used either stand-alone or as part of ScalaTest. See ScalaCheck tutorial on the cousre page.

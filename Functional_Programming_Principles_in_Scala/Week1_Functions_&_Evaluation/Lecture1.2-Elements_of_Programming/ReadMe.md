@@ -1,4 +1,4 @@
-# Elements of Programming
+# Lecture 1.2 - Elements of Programming
 
 ## Elements of Programming
 Every non-tivial programming language provides:

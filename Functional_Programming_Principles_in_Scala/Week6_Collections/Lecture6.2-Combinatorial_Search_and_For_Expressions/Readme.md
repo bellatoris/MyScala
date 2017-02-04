@@ -1,5 +1,5 @@
-# Lecture 6.2 - Combinatorail Search and For-Expressions
-## Handling NEsted Sequences 
+# Lecture 6.2 - Combinatorial Search and For-Expressions
+## Handling Nested Sequences 
 * We can extend the usage of higher oreder functions on sequences to many calculations which are usually expressed using nested loops.
 * **Example:** Given a positive integer `n`, find all pairs of positive integers `i` and `j`, with `1 <= j < i < n` such that `i + j` is prime.
 * For example, if `n = 7`, the sought pairs are
@@ -31,7 +31,7 @@
 * 우리는 모든 pair의 list를 원하므로 vectors of vectors를 concatenate해야 한다.
 
 ## Generate Pairs
-* Thre previous step gave a sequence of sequences, let;s call it `xss`.
+* Thre previous step gave a sequence of sequences, let's call it `xss`.
 * We can combine all the sub-sequences using `foldRight` with `++`:
 
 	```scala
@@ -51,7 +51,7 @@
 		(1 until i) map (j => (1, j)))).flatten
 	```
 	
-* Here;s useful law:
+* Here's useful law:
 
 	```scala
 	xs flatMap f = (xs map f).flatten

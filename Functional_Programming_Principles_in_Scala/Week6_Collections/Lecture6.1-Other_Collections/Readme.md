@@ -78,7 +78,8 @@
 	```scala
 	def scalarProduct(xs: Vector[Double], ys: Vector[Double]): Double =
 		(xs zip ys).map(xy => xy._1 * xy._2).sum
-	``
+	```
+	
 * An alternative way to write this is with a *pattern matching function value*.
 
 	```scala
@@ -91,7 +92,6 @@
 	```scala
 	{ case p1 => e1 ... case pn => en }
 	```
-
 is equivalent to 
 
 	```scala
