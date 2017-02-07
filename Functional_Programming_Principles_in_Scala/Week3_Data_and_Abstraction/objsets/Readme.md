@@ -44,9 +44,7 @@
 	* **traverse tree only once**
 
 We could instead traverse one of the trees only once, and include each of the nodes from one tree on the other.
- 1 Upvote
- · 
-Reply
+
 
 
 ## 3. Sorting Tweets by Their influence
