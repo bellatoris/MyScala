@@ -70,8 +70,8 @@ How can we prove these laws?
 
 ```scala
 (NonEmpty(x, l, r) incl x) contains x
-= NonEmpty(x, l, r) contains x        // by definition of NonEmpty.incl
-= true                                // by definition of NonEmpty.contains
+= NonEmpty(x, l, r) contains x            // by definition of NonEmpty.incl
+= true                                    // by definition of NonEmpty.contains
 ```
 
 **Induction step:** `NonEmpty(y, l, r)` **where** `y < x`
@@ -168,7 +168,7 @@ object Empty extends IntSet { ...
 }
 
 class NonEmtpy(x: Int, l: IntSet, r: IntSet) extends IntSet { ...
-	def union(other: IntSet): IntSet = (l union (r union (other))) incl x
+	def union(other: IntSet): IntSet = (l union (r union other)) incl x
 }
 ```
 
@@ -178,4 +178,41 @@ The correctness of `union` can be translated into the following law:
 ```scala
 (xs union ys) contains x = xs contains x || ys contains x 
 ```
-Show proposition 4 by using structural induction on `xs`.
+Show **proposition 4** by using structural induction on `xs`.
+
+**Base case**: `Empty`
+
+```scala
+(Empty union ys) contains x            // to show: = Empty contains x || ys contains x
+= ys contains x                        // by definition of Empty.union
+= Empty contains x || ys contains x    // by definition of Empty.contains
+```
+
+For the inductive step, we need to consider a tree `NonEmpty(z, l, r)`. We distinguish two cases:
+
+1. `z == x`
+2. `z != x`
+
+#### Case `z == x`
+**Induction step:** `NonEmpty(z, l, r)` **where** `z == x`
+
+```scala
+(NonEmpty(z, l, r) union ys) contains x         // to show: NonEmpty(z, l, r) contains x || ys contains x
+= ((l union (r union ys)) incl z) contains x    // by definition of NonEmpty.union
+= ((l union (r union ys)) incl x) contains x    // by z == x
+= true                                          // by proposition 2
+= true || ys contains x
+= NonEmpty(z, l, r) contains x || ys contains x // by definition of NonEmtpy.contains
+```
+
+#### Case `z != x`
+**Induction step:** `NonEmtpy(z, l, r)` where `z != x`
+
+```scala
+(NonEmpty(z, l, r) union ys) contains x         // to show: NonEmpty(z, l, r) contains x || ys contains x 
+= ((l union (r union ys) incl z) contains x     // by definition of NonEmpty.union
+= (l union (r union ys)) contains x             // by proposition 3
+= l contains x || (r union ys) contains x       // by the induction of hypothesis
+= l contains x || r contains x || ys contains x // by the induction of hypothesis
+= xs contains x || ys contains x                // by definition of NonEmpty.contains
+```
