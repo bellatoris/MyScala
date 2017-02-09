@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Week1_For_Expression_and_Monads/Practice1" value="1478967463000" />
+        <entry key="$PROJECT_DIR$/../../Week1_For_Expression_and_Monads/example" value="1457084270000" />
+        <entry key="$PROJECT_DIR$" value="1480987342000" />
+        <entry key="$PROJECT_DIR$/../../../Functional_Programming_Principles_in_Scala/Week6_Collections/forcomp" value="1462284412000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala/example" value="1459487574000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_Study/Doogie/Assginment1/example" value="1459487574000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_Study/Doogie/Assignment1-2/recfun" value="1462340330000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_Study/Doogie/Week1/Assignment1-2/recfun" value="1462340330000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala_Study/Doogie/Week2/Assignment2/funsets" value="1462287440000" />
+        <entry key="$PROJECT_DIR$/../../../../../2016-Winter/Parallel_Programming/Week1/example" value="1456657756000" />
+        <entry key="$PROJECT_DIR$/../../../../../2016-Winter/Parallel_Programming/Week1/scalashop" value="1465203494000" />
+        <entry key="$USER_HOME$/IdeaProjects/example" value="1473078701000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Functional_Programming_Design_in_Scala/Week1_For_Expression_and_Monads/example" value="1457084270000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week1/Assignment1-2/recfun" value="1462340330000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week2/Assignment2/funsets" value="1462287440000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week3/objsets" value="1462290446000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week3/practice" value="1474126246000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week4/Practice" value="1474820610000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week4/patmat" value="1462347664000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week6/Practice6" value="1476444441000" />
+        <entry key="$USER_HOME$/Study/2016-2/MyScala/Week6/forcomp" value="1462284412000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
