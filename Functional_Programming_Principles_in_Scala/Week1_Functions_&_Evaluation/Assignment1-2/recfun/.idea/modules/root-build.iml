@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="root-build" external.linked.project.path="$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" sbt.imports="sbt._, Keys._, dsl._, StudentBuild._, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin.autoImport._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin" sbt.resolvers="https://jcenter.bintray.com/|maven|jcenter, https://repo1.maven.org/maven2/|maven|public, /Users/DoogieMin/.ivy2/cache|ivy|Local cache" type="SBT_MODULE" version="4">
+<module external.linked.project.id="root-build" external.linked.project.path="$MODULE_DIR$/../../project" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" sbt.imports="StudentBuild._, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin.autoImport._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.com.typesafe.sbteclipse.plugin.EclipsePlugin, sbt._, Keys._, dsl._" sbt.resolvers="https://repo1.maven.org/maven2/|maven|public, /Users/DoogieMin/.ivy2/cache|ivy|Local cache" type="SBT_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project/target/idea-classes" />
-    <output-test url="file://$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project/target/idea-test-classes" />
+    <output url="file://$MODULE_DIR$/../../project/target/idea-classes" />
+    <output-test url="file://$MODULE_DIR$/../../project/target/idea-test-classes" />
     <exclude-output />
-    <content url="file://$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project">
-      <sourceFolder url="file://$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project" isTestSource="false" />
-      <excludeFolder url="file://$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project/project/target" />
-      <excludeFolder url="file://$USER_HOME$/Dropbox/Doogie/Study4.3/2016-2/MyScala/Week1/Assignment1-2/recfun/project/target" />
+    <content url="file://$MODULE_DIR$/../../project">
+      <sourceFolder url="file://$MODULE_DIR$/../../project" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../project/project/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../project/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
