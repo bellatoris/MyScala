@@ -5,7 +5,7 @@
 * First of all, these functions can all be defined in terms of `for`:
 
 	```scala
-	def mapFun[T, U](xs: List[T], f: T => U): List[U] = 
+	def map[T, U](xs: List[T], f: T => U): List[U] = 
 		for (x <- xs) yield f(x)
 		
 	def flatMap[T, U](xs: List[T], f: T => Iterable[U]): List[U] = 

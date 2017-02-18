@@ -4,7 +4,7 @@
 Data structures with `map` and `flatMap` seem to be quite common. In fact there's a name that describes this class of a data structures together with some algebraic laws that they should have. They are called ***monads.***
 
 ## What is a Monad?
-A monad `M` is a parametric type M[T] with two perations, `flatMap` and `unit`, that have to satisfy some laws.
+A monad `M` is a parametric type `M[T]` with two perations, `flatMap` and `unit`, that have to satisfy some laws.
 
 ```scala
 trait M[T] {
