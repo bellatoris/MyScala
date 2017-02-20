@@ -33,9 +33,9 @@ def sumOfSquare(x: Double, y: Double) = square(x) + square(y)
 ## Parameters and Return Types
 Function parameters come with their type, which is given after a colon 
 
-	```scala
-	def power(x: Double, y: Int): Double = ...
-	```
+```scala
+def power(x: Double, y: Int): Double = ...
+```
 	
 If a return type is given, it follows the parameter list. Primitive types are as in Java, but are written capitalized, e.g:
 
