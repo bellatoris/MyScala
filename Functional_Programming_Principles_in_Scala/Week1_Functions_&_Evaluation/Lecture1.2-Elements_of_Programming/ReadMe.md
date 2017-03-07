@@ -1,7 +1,7 @@
 # Lecture 1.2 - Elements of Programming
 
 ## Elements of Programming
-Every non-tivial programming language provides:
+Every non-trivial programming language provides:
 
 * primitive expressions representing the simplest elements
 * ways to *combine* expressions

@@ -1,10 +1,9 @@
 object session {
   1+3
   def sqrt(x:Double): Double = {
-    def isGoodEnough( guess: Double): Boolean = {
-      if ((guess * guess - x).abs / x < 0.001) true
-      else false
-    }
+    def isGoodEnough( guess: Double): Boolean =
+      (guess * guess - x).abs / x < 0.001
+
 
     def sqrtIterate(guess: Double): Double = {
       if (isGoodEnough(guess)) guess
@@ -15,6 +14,9 @@ object session {
   }
 
   sqrt(1e60)
+  sqrt(1e-30)
+  sqrt(1e50)
+  sqrt(0.1e-20)
 
   def factorialTailRecursion(x: Int):Int = {
     def reverseFactorial(i: Int, result: Int):Int = {
