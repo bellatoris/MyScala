@@ -51,7 +51,7 @@ Applications of parameterized functions are evaluated in a similar way as operat
 3. Replace the formal parameters of the function by the actual arguments.
 
 ## The substitution model
-This scheme of expression evaluation is called the *substitution model.* The idea underlying this model is that all evaluation does is *reduce an expression to a value.* It can be applied to all expressions, as long as they have no **side effect.** The substitution model is formalized in the **lamba-calculus**, which gives a foundation for functional programming.
+This scheme of expression evaluation is called the ***substitution model.*** The idea underlying this model is that all evaluation does is *reduce an expression to a value.* It can be applied to all expressions, as long as they have no **side effect.** The substitution model is formalized in the **lamba-calculus**, which gives a foundation for functional programming.
 
 ```scala
 sumOfSquare(3, 2+2)

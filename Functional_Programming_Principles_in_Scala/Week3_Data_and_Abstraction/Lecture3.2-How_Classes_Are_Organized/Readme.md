@@ -19,7 +19,7 @@
 
 	```scala
 	import week3.Rational				// imports just Rational
-	import week3.{Rational, Hello}	// imports both Rational and Hello
+	import week3.{Rational, Hello}		// imports both Rational and Hello
 	import week3._						// imports everything in package week3
 	```
 * The first two forms are called *named imports*.
@@ -37,9 +37,9 @@
 	
 	```
 	Int 			scala.Int
-	Boolean		scala.Boolean
+	Boolean			scala.Boolean
 	Object			java.lang.Object
-	require		scala.Predef.require
+	require			scala.Predef.require
 	assert			scala.Predef.assert
 	```
 	
@@ -54,6 +54,7 @@ trait Planar {
 	def height: Int
 	def width: Int
 	def surface: height * width
+}
 ```
 * Classes, objects and traits can inherit from at most one class but arbitrary many traits.
 * Example:
@@ -92,7 +93,7 @@ trait Planar {
 * `Null` is a subtype of every class that inherits from `Object`; it is incompatible with subtypes of `AnyVal`.
 	
 	```scala
-	val x = null 				// x: Null
+	val x = null 			// x: Null
 	val y: String = null	// y: String
 	val z: Int = null 		// error: type mismatch
 	```

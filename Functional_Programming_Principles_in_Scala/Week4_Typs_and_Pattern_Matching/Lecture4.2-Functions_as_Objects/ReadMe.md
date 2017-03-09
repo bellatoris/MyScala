@@ -5,7 +5,7 @@ Function value and Function type, What's difference of them?
 * Function value: Instance(value) of function type.
 
 ## Functions as Objects
-* We habe seen that Scala's numeric types ans the `Boolean` type can be implemented like normal classes.
+* We have seen that Scala's numeric types ans the `Boolean` type can be implemented like normal classes.
 * But what about functions?
 * In fact **functions values** *are* treated as **objects** in Scala.
 * The **function type** `A => B` is just an abbreviation for the class `scala.Function1[A, B]`, which is roughly defined as follows.
@@ -64,8 +64,8 @@ val f = new Function1[Int, Int] {
 }
 f.apply(7)
 ```
-Functions are objects. The method `apply` would that, by itself, be an object? That can't very well work. Because if apply was an object, it would be an instance of this function class, which would be, have an apply method, which would be an object. We would get an infinite expansion.
-I don't get it... I need to look this part again.
+Functions are objects. The method `apply` would that, by itself, be an object? That can't very well work. Because if apply was an object, it would be an instance of this function class, which would be, have an apply method, which would be an object. We would get an infinite expansion.  
+`apply`가 object라면 `apply`는 Fucntion class의 **instance**여야 할테고 그 **instance**의 `apply`를 사용하여야 할텐데 이 `apply`도 object이므로 .... 끝없이 expansion된다. 그러므로 `apply`는 object가 아니다.
 
 ## Functions and Methods
 * Note that a method such as
