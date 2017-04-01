@@ -10,7 +10,7 @@ One simple rule: One evaluates a function application `f(e_1, ... e_n)`
 This can be formalized as ***rewriting of the program itself.***
 
 ```scala
-		def f(x_1, ..., x_n) = B; ... f(v_1, ..., v_n)`
+		def f(x_1, ..., x_n) = B; ... f(v_1, ..., v_n)
 ->
 		def f(x_1, ..., x_n) = B; ... [v_1/x_1, ..., v_n/x_n]B
 ```

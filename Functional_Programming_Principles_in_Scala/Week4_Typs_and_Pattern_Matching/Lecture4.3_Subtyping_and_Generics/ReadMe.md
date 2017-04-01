@@ -141,7 +141,7 @@ is
 	
 	```scala
 	<console>:10:
-	ßerror: type mismatch;
+	error: type mismatch;
  	found   : Array[NonEmpty]
  	required: Array[IntSet]
 	Note: NonEmpty <: IntSet, but class Array is invariant in type T.

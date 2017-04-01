@@ -26,12 +26,11 @@ object Calculator {
   /** Get the Expr for a referenced variables.
    *  If the variable is not known, returns a literal NaN.
    */
-  private def getReferenceExpr(name: String,
-      references: Map[String, Signal[Expr]]) = {
+  private def getReferenceExpr(name: String, references: Map[String, Signal[Expr]]) = {
     references.get(name).fold[Expr] {
       Literal(Double.NaN)
-    } { exprSignal =>
-      exprSignal()
+    } {
+      exprSignal => exprSignal()
     }
   }
 }

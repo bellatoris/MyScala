@@ -34,5 +34,25 @@ object Main {
       } catch {
         case e: MalformedURLException => new URL("http://www.scala-lang.org")
       }
+    
+    val firstArg = if (args.length > 0) args(0) else ""
+
+    firstArg match {
+      case "salt" => println("pepper")
+      case "chips" => println("salsa")
+      case "eggs" => println("bacon")
+      case _ => println("huh")
+    }
+
+    // The result of match is value!
+    val freind = 
+      firstArg match {
+        case "salt" => "pepper"
+        case "chips" => "salsa"
+        case "eggs" => "bacon"
+        case _ => "huh"
+    }
+
+    println(friend)
   }
 }
